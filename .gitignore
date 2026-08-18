@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.env
+.pnpm-store/
+package-lock.json
+mcp.json
+crawlee_storage/
+.claude/
