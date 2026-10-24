@@ -14,7 +14,7 @@ A local [Model Context Protocol](https://modelcontextprotocol.io/) server for we
 
 ## Install
 
-Requires Node.js 20 or newer. The first use of JavaScript rendering or screenshots also requires the Chromium browser:
+Requires Node.js 26 or newer. Development uses Node 26.12.1 and pnpm 12.15.0 from `mise.toml`. The first use of JavaScript rendering or screenshots also requires the Chromium browser:
 
 ```bash
 npx playwright install chromium
