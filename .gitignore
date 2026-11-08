@@ -7,3 +7,45 @@ package-lock.json
 mcp.json
 crawlee_storage/
 .claude/
+
+# BEGIN GENERATED: agent-os
+# Managed by infractl repo sync; add your own entries outside this block.
+/.worktrees/
+node_modules/
+.next/
+dist/
+build/
+.turbo/
+coverage/
+.vite/
+.cache/
+.venv/
+.zig-cache/
+zig-out/
+.env
+.env.*
+!.env.example
+.agent-handoff.json
+/.bashrc
+/.bash_profile
+/.profile
+/.zshrc
+/.zprofile
+/.gitconfig
+/.gitmodules
+/.ripgreprc
+/.mcp.json
+/.idea/.keep
+/.vscode/.keep
+/.agents/.keep
+/.aws/.keep
+/.codex/.keep
+/.claude/agents/.keep
+/.claude/commands/.keep
+/.claude/launch.json
+/.claude/loop.md
+/.claude/output-styles/.keep
+/.claude/routines/.keep
+/.claude/scheduled_tasks.json
+/.claude/workflows/.keep
+# END GENERATED: agent-os
